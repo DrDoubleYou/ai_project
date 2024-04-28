@@ -1,0 +1,21 @@
+Song Name,BPM,Key Maj (Rel),Key Min (Rel),Progression Maj,Progression Min,Form,Notes,Note Lengths
+Lucid Dreams,168,a,f#,"vi,iii,ii,iii,vi,iii,ii,iii,iv,v,i,iii,iv,v,vi,vi","i,v,iv,v,i,v,iv,v,vi,vii,iii,v,vi,vii,i,i",sentence,16 bar loop,"4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4"
+Robbery,160,d,b,"iv, i, i, v","vi, iii, iii, vii",period,"iv, ^^, i, ^9",6244
+All Girls Are the Same,162,c,a,"iii, iii, i,v","v, v, iii, vii",period,"7,7,6,^","4,4,4,4"
+Come and Go,145,f,d,"vi,v,ii,iv","i, vii, iv, vi",period,,"3.5,4.5,3.5,4.5"
+Wishing Well,150,c,a,"vi,vi,iv,i","i, i, vi, iii",sentence,"7,9,9",4435
+Bandit,180,g#,f,"vi,vi,iv,iv","i,i,vi,vi",period,"n,n,7,7","4,4,4,4"
+Armed and Dangerous,130,a#,g,"iv,v,iv,i","vi,vii,vi,iii",period,mix key apparently,"4,4,4,4"
+Hate Me,150,g#,f,"vi,ii,v,i","i,iv,vii,iii",period,,"3.5,4.5,3.5,4.5"
+Lean Wit Me,164,e,c#,"vi,vi,v,v,iv,iv,iv,iv","i,i,vii,vii,vi,vi,vi,vi",period,"n,11,n,n,7,7,11,n","4,4,4,4"
+Righteous,143,c,a,"vi,v,iv,ii,i","i,vii,vi,iv,iii",comma,,"4,4,4,2,2"
+Go,148,f#,d#,"vi,i,vi,iv,iii","i,iii,i,vi,v",sentence,"11>n,^^9>n,11>n,9,11","4,4,4,2,2"
+Legends,142,e,c#,"i,i,iii,iii","iii,iii,v,v",sentence,"dim, 6, sus4, n","4,4,4,4"
+Hate the Other Side,180,e,c#,"iii,i,ii,ii","v,iii,iv,iv",period,,"4,4,4,4"
+Fine China,166,g,e,"iv,iv,ii,i","vi,vi,iv,iii",sentence,,"2,2,2,2"
+Wasted,145,c,a,"vi,i,iv,i","i,iii,vi,iii",period,"n>7,7,n,7","6,2,6,2"
+PTSD,119,d#,c,"i,vi,vii","iii,i,ii",sentence,,"4,2,2"
+Conversations,160,b,g#,"vi,iv,iv,v","i,vi,vi,vii",period,"n,6,9,n","3,5,3,5"
+Flex,164,d,b,"vi, i,vi,v","i,iii,vi,vii",period,,"4,4,4,4"
+Roses,147,g#,f,"vi,ii,iv,iv","i,iv,vi,vi",comma,last bar descend from added,"4,4,4,4"
+Black and White,148,c,a,"vi,i,iv,i,vii","i, iii, vi, iii, ii",period,"n,sus4,n,sus2,7,6,6,9","4,4,4,2,2"
