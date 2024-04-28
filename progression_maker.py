@@ -253,7 +253,6 @@ def maj_chord_data(data):
     return ret_list
 
 def min_chord_data(data):
-
     """
     Determines what minor chord is most likely to come next for songs from the given artist
     """
@@ -295,7 +294,6 @@ def min_chord_data(data):
     return ret_lis
 
 def normalize_notes(notes):
-
     """
     Ensures notes are not too close or too low
     """
@@ -330,7 +328,6 @@ def midi_write(note_locs):
     outfile.tracks.append(t2)
     outfile.tracks.append(t3)
     outfile.tracks.append(t4)
-
 
     # Write the midi information
     for i in range(4):
@@ -371,7 +368,10 @@ def main():
     midi_note_locs_unsorted, scale_notes = chord_builder(prog)
     note_locs = normalize_notes(midi_note_locs_unsorted)
 
-    os.startfile(midi_write(note_locs))
+    try:
+        os.startfile(midi_write(note_locs))
+    except:
+        print("Error playing back MIDI file...")
 
 if __name__ == "__main__":
     main()
