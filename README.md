@@ -1,8 +1,11 @@
 To use:
 
 1). Clone the repo
+
 2). Install requirements with "pip install -r requirements.txt" 
+
     Alternatively, just do "pip install mido" since this is the only non built in dependency
+    
 3). Run the program to generate a new MIDI file!
 
 ===== NOTE =====
