@@ -6,6 +6,7 @@ To use:
 3). Run the program to generate a new MIDI file!
 
 ===== NOTE =====
+
 The program was built within a Windows environment, and the opening and playing of the MIDI file at the end is done using Window's default
 media player (Windows Media Player) with its default sound (a low quality piano). Occaisionally, the notes are not rendered
 properly and it sounds like a chord is only playing one note, when there are actually 3+ notes that should be playing. Visualization of a MIDI
